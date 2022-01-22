@@ -1,0 +1,26 @@
+#start {
+  background-color: green;
+}
+#quit {
+  background-color: red;
+}
+button {
+  cursor: pointer;
+  /* display: inline-block; */
+  font-size: 14px;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  align-self: center;
+  line-height: 1.5;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  
+}
+#buttondiv{
+    margin-left: 20%;
+}
+canvas {
+  background: rgb(238, 238, 0);
+}
